@@ -10,7 +10,10 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=v-kondratiev&style=flat-square&color=blue" alt=""/>
-
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYxMnozeGQ3cnV6ZGd3ZDNzZmR1d2xub3lydGgyeGRhYWtjdHl0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 

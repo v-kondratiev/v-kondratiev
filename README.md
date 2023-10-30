@@ -1,6 +1,20 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="200"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/viktor-kondratiev-328a16218/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100017238182035">
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
+  </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=v-kondratiev&style=flat-square&color=blue" alt=""/>
+
+</div>
+
+
+
 
 <!--
 **v-kondratiev/v-kondratiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
